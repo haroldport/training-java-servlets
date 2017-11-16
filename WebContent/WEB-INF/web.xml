@@ -59,4 +59,14 @@
     <servlet-name>ServletFormulario002</servlet-name>
     <url-pattern>/ServletFormulario002</url-pattern>
   </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>ServletFormulario003</display-name>
+    <servlet-name>ServletFormulario003</servlet-name>
+    <servlet-class>com.arquitecturajava.ServletFormulario003</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ServletFormulario003</servlet-name>
+    <url-pattern>/ServletFormulario003</url-pattern>
+  </servlet-mapping>
 </web-app>
