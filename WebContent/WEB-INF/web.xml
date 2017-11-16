@@ -89,4 +89,14 @@
     <servlet-name>ServletFormulario006</servlet-name>
     <url-pattern>/ServletFormulario006</url-pattern>
   </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>Servlet004</display-name>
+    <servlet-name>Servlet004</servlet-name>
+    <servlet-class>com.arquitecturajava.Servlet004</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Servlet004</servlet-name>
+    <url-pattern>/Servlet004</url-pattern>
+  </servlet-mapping>
 </web-app>
