@@ -94,6 +94,10 @@
     <display-name>Servlet004</display-name>
     <servlet-name>Servlet004</servlet-name>
     <servlet-class>com.arquitecturajava.Servlet004</servlet-class>
+    <init-param>
+    	<param-name>inicio</param-name>
+    	<param-value>5</param-value>
+    </init-param>
   </servlet>
   <servlet-mapping>
     <servlet-name>Servlet004</servlet-name>
